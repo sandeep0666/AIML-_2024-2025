@@ -5,9 +5,7 @@
 #Lab_05 (https://github.com/sandeep0666/AIML-_2024-2025/blob/main/Lab05-AIML.ipynb.txt)   
 #Lab_06 (https://github.com/sandeep0666/AIML-_2024-2025/blob/main/Lab07-SVM.ipynb)          
 #Lab_07 (https://github.com/sandeep0666/AIML-_2024-2025/blob/main/Lab07-SVM.ipynb)
-
 #Lab08(https://github.com/sandeep0666/AIML-_2024-2025/blob/main/Lab08_AIML.ipynb)
-
 #LAb09(https://github.com/sandeep0666/AIML-_2024-2025/blob/main/Lab09_AIML.ipynb)
 #Lab10(https://github.com/sandeep0666/AIML-_2024-2025/blob/main/Lab10_AIML.ipynb)
 
